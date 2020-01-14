@@ -23,7 +23,7 @@
 # For full flexibility, construct your own bsts model and feed it into
 # CausalImpactForBsts().
 kLocalLevelPriorSampleSize <- 32
-kStaticRegressionExpectedModelSize <- 3
+kStaticRegressionExpectedModelSize <- 50
 kStaticRegressionExpectedR2 <- 0.8
 kStaticRegressionPriorDf <- 50
 kDynamicRegressionPriorSampleSize <- 32
